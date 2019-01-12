@@ -1,0 +1,20 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.suitmedia.bundle.sample.fragmentsample">
+
+    <dist:module
+        dist:onDemand="true"
+        dist:title="@string/title_fragmentsample">
+        <dist:fusing dist:include="true" />
+    </dist:module>
+
+    <application
+        android:theme="@style/AppTheme">
+        <activity android:name="com.suitmedia.bundle.sample.fragmentsample.feature.SampleActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.suitmedia.bundle.sample.feature.login.LoginActivity" />
+        </activity>
+    </application>
+</manifest>
+

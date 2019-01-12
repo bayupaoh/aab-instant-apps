@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">898401888087-tpqokrn96nico2irun0glt2fodeq0ui6.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://suitcore-81d74.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">898401888087</string>
+    <string name="google_api_key" translatable="false">AIzaSyDxYNSlhm1buHIrjiA5fe-p3IH0iqQrWfg</string>
+    <string name="google_app_id" translatable="false">1:898401888087:android:d7fe79e7a9c9d496</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDxYNSlhm1buHIrjiA5fe-p3IH0iqQrWfg</string>
+    <string name="google_storage_bucket" translatable="false">suitcore-81d74.appspot.com</string>
+    <string name="project_id" translatable="false">suitcore-81d74</string>
+</resources>

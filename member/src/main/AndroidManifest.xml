@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.suitmedia.bundle.sample.member">
+
+    <dist:module
+        dist:onDemand="true"
+        dist:title="@string/title_member">
+        <dist:fusing dist:include="true" />
+    </dist:module>
+
+    <application
+        android:theme="@style/AppTheme">
+        <activity android:name="com.suitmedia.bundle.sample.feature.MemberActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

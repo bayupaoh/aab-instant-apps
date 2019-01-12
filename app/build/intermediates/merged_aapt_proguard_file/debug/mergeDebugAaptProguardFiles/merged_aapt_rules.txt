@@ -1,0 +1,228 @@
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:213
+-keep class android.arch.lifecycle.ProcessLifecycleOwnerInitializer { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:236
+-keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:69
+-keep class com.facebook.CustomTabActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:81
+-keep class com.facebook.CustomTabMainActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:64
+-keep class com.facebook.FacebookActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:231
+-keep class com.facebook.internal.FacebookInitProvider { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:218
+-keep class com.facebook.marketing.internal.MarketingInitProvider { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:110
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:101
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:182
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:142
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:156
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:137
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:152
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:115
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:123
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:162
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:174
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:93
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:187
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27
+-keep class com.suitmedia.bundle.sample.BaseApplication { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:244
+-keep class com.suitmedia.bundle.sample.feature.MemberActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:39
+-keep class com.suitmedia.bundle.sample.feature.login.LoginActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:54
+-keep class com.suitmedia.bundle.sample.firebase.fcm.FCMFireBaseInstanceIDService { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:49
+-keep class com.suitmedia.bundle.sample.firebase.fcm.FCMFireBaseMessagingService { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:249
+-keep class com.suitmedia.bundle.sample.fragmentsample.feature.SampleActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:207
+-keep class com.twitter.sdk.android.core.identity.OAuthActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:197
+-keep class com.twitter.sdk.android.tweetcomposer.ComposerActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:202
+-keep class com.twitter.sdk.android.tweetcomposer.TweetUploadService { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:86
+-keep class com.twitter.sdk.android.tweetui.GalleryActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:82
+-keep class com.twitter.sdk.android.tweetui.PlayerActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/design_bottom_navigation_item.xml:27
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/design_navigation_item.xml:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/design_navigation_menu.xml:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/design_text_input_password_icon.xml:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/design_bottom_sheet_dialog.xml:26
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/mtrl_layout_snackbar.xml:18
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/design_layout_snackbar.xml:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/mtrl_layout_snackbar_include.xml:18
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/design_layout_snackbar_include.xml:18
+-keep class android.support.design.widget.SnackbarContentLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_popup_menu_item_layout.xml:17
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_cascading_menu_item_layout.xml:20
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_screen_toolbar.xml:43
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/res/layout/com_facebook_smart_device_dialog_fragment.xml:47
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/res/layout/com_facebook_device_auth_dialog_fragment.xml:45
+-keep class android.support.v7.widget.AppCompatImageView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/res/layout/com_facebook_smart_device_dialog_fragment.xml:22
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/res/layout/com_facebook_device_auth_dialog_fragment.xml:22
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_screen_simple.xml:17
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_alert_dialog_title_material.xml:56
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/layout/abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/447c40f84e48c0a8d820728a8957ea71/res/layout/browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/xrecyclerview-1.5.9.aar/863fee8da677616606f8926008573e38/res/layout/listview_header.xml:60
+-keep class com.jcodecraeer.xrecyclerview.SimpleViewSwitcher { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/ff55d81003cdf56845cdfffebf0eead8/res/layout/tw__activity_composer.xml:21
+-keep class com.twitter.sdk.android.tweetcomposer.ComposerView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/ff55d81003cdf56845cdfffebf0eead8/res/layout/tw__composer_view.xml:58
+-keep class com.twitter.sdk.android.tweetcomposer.internal.util.ObservableScrollView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__action_bar.xml:28
+-keep class com.twitter.sdk.android.tweetui.ToggleImageButton { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__action_bar.xml:18
+-keep class com.twitter.sdk.android.tweetui.TweetActionBarView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__tweet_quote.xml:51
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__tweet_compact.xml:72
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__tweet.xml:23
+-keep class com.twitter.sdk.android.tweetui.internal.AspectRatioFrameLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__tweet_quote.xml:62
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__tweet_compact.xml:83
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__tweet.xml:31
+-keep class com.twitter.sdk.android.tweetui.internal.MediaBadgeView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__tweet_quote.xml:58
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__tweet_compact.xml:79
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__tweet.xml:27
+-keep class com.twitter.sdk.android.tweetui.internal.TweetMediaView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__player_activity.xml:32
+-keep class com.twitter.sdk.android.tweetui.internal.VideoControlView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__player_activity.xml:20
+-keep class com.twitter.sdk.android.tweetui.internal.VideoView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__gallery_activity.xml:22
+-keep class com.twitter.sdk.android.tweetui.internal.ViewPagerFixed { <init>(...); }
+
+
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23
+-keep class com.suitmedia.bundle.sample.feature.MemberActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/src/main/res/layout/item_member_shimmer.xml:9
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/src/main/res/layout/item_member.xml:10
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/src/main/res/layout/activity_member.xml:14
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/src/main/res/layout/item_member.xml:30
+-keep class com.facebook.drawee.view.SimpleDraweeView { <init>(...); }
+
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/src/main/res/layout/layout_empty_member_shimmer.xml:6
+-keep class com.facebook.shimmer.ShimmerFrameLayout { <init>(...); }
+
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/src/main/res/layout/activity_member.xml:40
+-keep class com.suitmedia.bundle.sample.base.ui.recyclerview.BaseRecyclerView { <init>(...); }
+
+
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23
+-keep class com.suitmedia.bundle.sample.fragmentsample.feature.SampleActivity { <init>(...); }
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/src/main/res/layout/activity_test.xml:13
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+
