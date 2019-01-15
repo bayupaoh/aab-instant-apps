@@ -854,17 +854,17 @@ public final class R {
         public static final int abc_shareactionprovider_share_with_application = 0x7f0e0025;
         public static final int abc_toolbar_collapse_description = 0x7f0e0026;
         public static final int appbar_scrolling_view_behavior = 0x7f0e0028;
-        public static final int bottom_sheet_behavior = 0x7f0e0029;
-        public static final int character_counter_pattern = 0x7f0e002b;
-        public static final int listview_header_hint_normal = 0x7f0e0063;
-        public static final int listview_header_hint_release = 0x7f0e0064;
-        public static final int listview_header_last_time = 0x7f0e0065;
-        public static final int listview_loading = 0x7f0e0066;
-        public static final int loading_done = 0x7f0e0067;
-        public static final int nomore_loading = 0x7f0e006a;
-        public static final int refresh_done = 0x7f0e0071;
-        public static final int refreshing = 0x7f0e0072;
-        public static final int status_bar_notification_info_overflow = 0x7f0e0074;
+        public static final int bottom_sheet_behavior = 0x7f0e002a;
+        public static final int character_counter_pattern = 0x7f0e002c;
+        public static final int listview_header_hint_normal = 0x7f0e0064;
+        public static final int listview_header_hint_release = 0x7f0e0065;
+        public static final int listview_header_last_time = 0x7f0e0066;
+        public static final int listview_loading = 0x7f0e0067;
+        public static final int loading_done = 0x7f0e0068;
+        public static final int nomore_loading = 0x7f0e006b;
+        public static final int refresh_done = 0x7f0e0072;
+        public static final int refreshing = 0x7f0e0073;
+        public static final int status_bar_notification_info_overflow = 0x7f0e0075;
     }
     public static final class style {
         private style() {}

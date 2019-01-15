@@ -8,12 +8,34 @@
         <dist:fusing dist:include="true" />
     </dist:module>
 
-    <application
-        android:theme="@style/AppTheme">
+    <application android:theme="@style/AppTheme">
         <activity android:name="com.suitmedia.bundle.sample.fragmentsample.feature.SampleActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.suitmedia.bundle.sample.feature.login.LoginActivity" />
+
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:scheme="http"
+                    android:host="suitmedia.instantappsample.com"
+                    android:pathPattern="/sample" />
+            </intent-filter>
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:scheme="https"
+                    android:host="suitmedia.instantappsample.com"
+                    android:pathPattern="/sample" />
+            </intent-filter>
         </activity>
     </application>
 </manifest>

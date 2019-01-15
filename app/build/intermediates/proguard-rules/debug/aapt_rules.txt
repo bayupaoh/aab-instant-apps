@@ -1,64 +1,64 @@
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:213
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:243
 -keep class android.arch.lifecycle.ProcessLifecycleOwnerInitializer { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:236
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:266
 -keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:69
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:99
 -keep class com.facebook.CustomTabActivity { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:81
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:111
 -keep class com.facebook.CustomTabMainActivity { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:64
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:94
 -keep class com.facebook.FacebookActivity { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:231
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:261
 -keep class com.facebook.internal.FacebookInitProvider { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:218
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:248
 -keep class com.facebook.marketing.internal.MarketingInitProvider { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:110
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:140
 -keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:101
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:131
 -keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:182
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:212
 -keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:142
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:172
 -keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:156
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:186
 -keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:137
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:167
 -keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:152
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:182
 -keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:115
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:145
 -keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:123
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:153
 -keep class com.google.firebase.components.ComponentDiscoveryService { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:162
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:192
 -keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:174
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:204
 -keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:93
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:123
 -keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:187
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:217
 -keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
 # Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27
 -keep class com.suitmedia.bundle.sample.BaseApplication { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:244
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:274
 -keep class com.suitmedia.bundle.sample.feature.MemberActivity { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:39
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:43
 -keep class com.suitmedia.bundle.sample.feature.login.LoginActivity { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:54
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:84
 -keep class com.suitmedia.bundle.sample.firebase.fcm.FCMFireBaseInstanceIDService { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:49
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:79
 -keep class com.suitmedia.bundle.sample.firebase.fcm.FCMFireBaseMessagingService { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:249
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:301
 -keep class com.suitmedia.bundle.sample.fragmentsample.feature.SampleActivity { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:207
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:237
 -keep class com.twitter.sdk.android.core.identity.OAuthActivity { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:197
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:227
 -keep class com.twitter.sdk.android.tweetcomposer.ComposerActivity { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:202
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:232
 -keep class com.twitter.sdk.android.tweetcomposer.TweetUploadService { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:86
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:116
 -keep class com.twitter.sdk.android.tweetui.GalleryActivity { <init>(...); }
-# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:82
+# Referenced at /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:112
 -keep class com.twitter.sdk.android.tweetui.PlayerActivity { <init>(...); }
 # Referenced at /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/design_bottom_navigation_item.xml:27
 -keep class android.support.design.internal.BaselineLayout { <init>(...); }

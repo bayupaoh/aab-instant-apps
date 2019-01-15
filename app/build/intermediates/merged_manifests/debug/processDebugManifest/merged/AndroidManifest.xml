@@ -3,7 +3,7 @@
     xmlns:dist="http://schemas.android.com/apk/distribution"
     package="com.suitmedia.bundle.sample"
     android:targetSandboxVersion="2"
-    android:versionCode="10"
+    android:versionCode="101"
     android:versionName="1.0" >
 
     <uses-sdk
@@ -36,6 +36,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="asset_statements"
+            android:resource="@string/asset_statements" />
+
         <activity
             android:name="com.suitmedia.bundle.sample.feature.login.LoginActivity"
             android:screenOrientation="portrait" >
@@ -44,6 +48,32 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+            <intent-filter android:autoVerify="true" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="suitmedia.instantappsample.com"
+                    android:pathPattern="/signin"
+                    android:scheme="https" />
+            </intent-filter>
+            <intent-filter android:autoVerify="true" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="suitmedia.instantappsample.com"
+                    android:pathPattern="/signin"
+                    android:scheme="http" />
+            </intent-filter>
+
+            <meta-data
+                android:name="default-url"
+                android:value="https://suitmedia.instantappsample.com/signin" />
         </activity>
 
         <service android:name="com.suitmedia.bundle.sample.firebase.fcm.FCMFireBaseMessagingService" >
@@ -245,11 +275,56 @@
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
             </intent-filter>
+            <intent-filter android:autoVerify="true" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="suitmedia.instantappsample.com"
+                    android:pathPattern="/member"
+                    android:scheme="http" />
+            </intent-filter>
+            <intent-filter android:autoVerify="true" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="suitmedia.instantappsample.com"
+                    android:pathPattern="/member"
+                    android:scheme="https" />
+            </intent-filter>
         </activity>
         <activity android:name="com.suitmedia.bundle.sample.fragmentsample.feature.SampleActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.suitmedia.bundle.sample.feature.login.LoginActivity" />
+
+            <intent-filter android:autoVerify="true" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="suitmedia.instantappsample.com"
+                    android:pathPattern="/sample"
+                    android:scheme="http" />
+            </intent-filter>
+            <intent-filter android:autoVerify="true" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="suitmedia.instantappsample.com"
+                    android:pathPattern="/sample"
+                    android:scheme="https" />
+            </intent-filter>
         </activity>
     </application>
 

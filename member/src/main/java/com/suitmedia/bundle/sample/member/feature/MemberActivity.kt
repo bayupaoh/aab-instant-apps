@@ -2,6 +2,7 @@ package com.suitmedia.bundle.sample.feature
 
 import android.content.Context
 import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
@@ -179,10 +180,14 @@ class MemberActivity : BaseActivityWithDynamicFeature(),
     }
 
     private fun onSuccessfulLoad() {
-        Intent().setClassName(CommonConstant.BASE_PACKAGE, CommonConstant.INTENT_FRAGMENT_SAMPLE)
-                .also {
-                    startActivity(it)
-                }
+        val intent = Intent(Intent.ACTION_VIEW,
+                Uri.parse(CommonConstant.INTENT_FRAGMENT_SAMPLE_URL))
+        intent.addCategory(Intent.CATEGORY_DEFAULT)
+        intent.addCategory(Intent.CATEGORY_BROWSABLE)
+        if (this.applicationContext != null) {
+            intent.`package` = applicationContext.packageName
+        }
+        startActivity(intent)
     }
 
     override fun onDownloadModule(name: String, state: SplitInstallSessionState) {

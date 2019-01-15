@@ -1,6 +1,7 @@
 package com.suitmedia.bundle.sample.feature.login
 
 import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import android.util.Log
 import com.suitmedia.bundle.sample.R
@@ -168,10 +169,15 @@ class LoginActivity : BaseActivityWithDynamicFeature(), LoginView, GoogleListene
     }
 
     private fun onSuccessfulLoad() {
-        Intent().setClassName(CommonConstant.BASE_PACKAGE, CommonConstant.INTENT_MEMBER)
-                .also {
-                    startActivity(it)
-                }
+        val intent = Intent(Intent.ACTION_VIEW,
+                Uri.parse(CommonConstant.INTENT_MEMBER_URL))
+        intent.addCategory(Intent.CATEGORY_DEFAULT)
+        intent.addCategory(Intent.CATEGORY_BROWSABLE)
+        intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
+        if (this.applicationContext != null) {
+            intent.`package` = applicationContext.packageName
+        }
+        startActivity(intent)
     }
 
     override fun onDownloadModule(name: String, state: SplitInstallSessionState) {

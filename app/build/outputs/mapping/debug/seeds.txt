@@ -26394,6 +26394,7 @@ com.suitmedia.bundle.sample.R$string: int abc_shareactionprovider_share_with_app
 com.suitmedia.bundle.sample.R$string: int abc_toolbar_collapse_description
 com.suitmedia.bundle.sample.R$string: int app_name
 com.suitmedia.bundle.sample.R$string: int appbar_scrolling_view_behavior
+com.suitmedia.bundle.sample.R$string: int asset_statements
 com.suitmedia.bundle.sample.R$string: int bottom_sheet_behavior
 com.suitmedia.bundle.sample.R$string: int character_counter_content_description
 com.suitmedia.bundle.sample.R$string: int character_counter_pattern

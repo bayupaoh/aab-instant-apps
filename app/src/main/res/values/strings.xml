@@ -26,6 +26,7 @@
     <string name="facebook_request_field">id,name,email,gender,birthday,picture,cover</string>
     <string name="title_member">member</string>
     <string name="title_fragmentsample">fragmentsample</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://suitmedia.instantappsample.com/.well-known/assetlinks.json\" }]</string>
 
 
 </resources>

@@ -20,4 +20,9 @@ object CommonConstant {
     const val INTENT_LOGIN = "$BASE_PACKAGE.feature.login.LoginActivity"
     const val INTENT_MEMBER = "$BASE_PACKAGE.feature.MemberActivity"
     const val INTENT_FRAGMENT_SAMPLE = "$BASE_PACKAGE.fragmentsample.feature.SampleActivity"
+
+    const val BASE_PACKAGE_URL = "https://suitmedia.instantappsample.com"
+    const val INTENT_MEMBER_URL = "${BASE_PACKAGE_URL}/member"
+    const val INTENT_LOGIN_URL = "${BASE_PACKAGE_URL}/signin"
+    const val INTENT_FRAGMENT_SAMPLE_URL = "${BASE_PACKAGE_URL}/sample"
 }

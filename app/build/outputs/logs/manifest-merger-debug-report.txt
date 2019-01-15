@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-73:12
-INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-73:12
-INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-73:12
-INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-73:12
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-104:12
 MERGED from [io.realm:realm-android-library:5.7.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/realm-android-library-5.7.1.aar/b15234a82c8da6480651d03b3c51afb8/AndroidManifest.xml:2:1-10:12
 MERGED from [io.realm:realm-android-kotlin-extensions:5.7.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-5.7.1.aar/1667758656d7852b3783ca38bbaeb248/AndroidManifest.xml:2:1-10:12
 MERGED from [com.jcodecraeer:xrecyclerview:1.5.9] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/xrecyclerview-1.5.9.aar/863fee8da677616606f8926008573e38/AndroidManifest.xml:2:1-13:12
@@ -93,18 +93,18 @@ MERGED from [com.facebook.fresco:imagepipeline:1.11.0] /Users/bayupaoh/.gradle/c
 MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.11.0.aar/030c3cd22e2bb3c16019f44fc02361f3/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:1.11.0] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/fbcore-1.11.0.aar/739cccb3427312f4f8b7269ec9b76749/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/12ec199e5de25bc415b3e3dc8111e8cf/AndroidManifest.xml:2:1-13:12
-MERGED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-30:12
-MERGED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-73:12
-INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-73:12
-INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-73:12
+MERGED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-52:12
+MERGED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-104:12
 	package
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:6:5-42
 		INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-73:12
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-104:12
 		INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:3:5-51
@@ -112,7 +112,7 @@ INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:4:5-61
 	android:versionCode
 		INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-73:12
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:1-104:12
 		INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:2:11-69
@@ -161,7 +161,7 @@ ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/An
 	dist:instant
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:15:18-37
 application
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:17:5-71:19
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:17:5-102:19
 MERGED from [com.jcodecraeer:xrecyclerview:1.5.9] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/xrecyclerview-1.5.9.aar/863fee8da677616606f8926008573e38/AndroidManifest.xml:11:5-20
 MERGED from [com.jcodecraeer:xrecyclerview:1.5.9] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/xrecyclerview-1.5.9.aar/863fee8da677616606f8926008573e38/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:design:28.0.0] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/AndroidManifest.xml:22:5-20
@@ -244,10 +244,10 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bayupaoh/.gr
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/94515ddb2e75c6d5f7ed7298dac751a5/AndroidManifest.xml:22:5-23:19
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/12ec199e5de25bc415b3e3dc8111e8cf/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/12ec199e5de25bc415b3e3dc8111e8cf/AndroidManifest.xml:11:5-20
-MERGED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-28:19
-MERGED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-28:19
-MERGED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-28:19
-MERGED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-28:19
+MERGED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-50:19
+MERGED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-50:19
+MERGED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-51:19
+MERGED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-51:19
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/11e923fb703d64155db0d265c19573b6/AndroidManifest.xml:22:18-91
 	android:supportsRtl
@@ -270,86 +270,110 @@ MERGED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sam
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:25:9-40
 	android:name
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:18:9-40
+meta-data#asset_statements
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:27:9-29:59
+	android:resource
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:28:13-44
 activity#com.suitmedia.bundle.sample.feature.login.LoginActivity
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:27:9-36:20
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:30:9-66:20
 	android:screenOrientation
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:28:13-49
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:32:13-49
 	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:27:19-89
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:31:13-83
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:30:13-34:29
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:31:17-69
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:31:25-66
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:33:17-77
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:33:27-74
-service#com.suitmedia.bundle.sample.firebase.fcm.FCMFireBaseMessagingService
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:39:9-44:19
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:37:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:suitmedia.instantappsample.com+data:pathPattern:/signin+data:scheme:https
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:39:13-49:29
+	android:autoVerify
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:39:28-53
+action#android.intent.action.VIEW
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:40:13-69
-intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:41:13-43:29
-action#com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:42:17-77
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:42:17-76
 	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:42:25-75
-service#com.suitmedia.bundle.sample.firebase.fcm.FCMFireBaseInstanceIDService
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:46:9-51:19
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:43:17-78
 	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:47:13-70
-intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:48:13-50:29
-action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:49:17-79
-	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:49:25-77
-meta-data#com.facebook.sdk.ApplicationId
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:53:9-54:54
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:43:27-75
+data
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:45:17-48:53
+	android:host
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:47:21-66
+	android:scheme
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:46:21-43
+	android:pathPattern
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:48:21-50
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:suitmedia.instantappsample.com+data:pathPattern:/signin+data:scheme:http
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:50:13-60:29
+	android:autoVerify
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:50:28-53
+meta-data#default-url
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:62:13-64:81
 	android:value
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:54:13-52
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:64:17-78
 	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:53:20-65
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:63:17-43
+service#com.suitmedia.bundle.sample.firebase.fcm.FCMFireBaseMessagingService
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:69:9-73:19
+	android:name
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:69:18-74
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:70:13-72:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:71:17-78
+	android:name
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:71:25-75
+service#com.suitmedia.bundle.sample.firebase.fcm.FCMFireBaseInstanceIDService
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:75:9-79:19
+	android:name
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:75:18-75
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:76:13-78:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:77:17-80
+	android:name
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:77:25-77
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:81:9-83:55
+	android:value
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:83:13-52
+	android:name
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:82:13-58
 activity#com.facebook.FacebookActivity
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:56:9-59:48
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:85:9-88:48
 MERGED from [com.facebook.android:facebook-common:4.38.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/AndroidManifest.xml:29:9-32:66
 MERGED from [com.facebook.android:facebook-common:4.38.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/AndroidManifest.xml:29:9-32:66
 	android:label
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:59:13-45
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:88:13-45
 	android:configChanges
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:57:13-113
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:87:13-96
 	android:theme
 		ADDED from [com.facebook.android:facebook-common:4.38.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:56:19-63
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:86:13-57
 activity#com.facebook.CustomTabActivity
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:60:9-69:20
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:89:9-100:20
 MERGED from [com.facebook.android:facebook-common:4.38.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/AndroidManifest.xml:34:9-67
 MERGED from [com.facebook.android:facebook-common:4.38.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/AndroidManifest.xml:34:9-67
 	android:exported
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:62:13-36
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:91:13-36
 	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:61:13-58
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:90:13-58
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:63:13-68:29
-action#android.intent.action.VIEW
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:64:17-69
-	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:64:25-66
-category#android.intent.category.DEFAULT
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:65:17-76
-	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:65:27-73
-category#android.intent.category.BROWSABLE
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:66:17-78
-	android:name
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:66:27-75
-data
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:67:17-75
-	android:scheme
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:67:23-72
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:92:13-99:29
 uses-sdk
 INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml
@@ -815,13 +839,21 @@ ADDED from [com.facebook.android:facebook-core:4.38.1] /Users/bayupaoh/.gradle/c
 	android:name
 		ADDED from [com.facebook.android:facebook-core:4.38.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/aba0eaf71cf409d27ed77f7b51f7c623/AndroidManifest.xml:48:25-92
 activity#com.suitmedia.bundle.sample.feature.MemberActivity
-ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23:9-27:20
+ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23:9-49:20
 	android:name
 		ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23:19-84
 intent-filter#action:name:android.intent.action.VIEW
 ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:13-26:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:suitmedia.instantappsample.com+data:pathPattern:/member+data:scheme:http
+ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:13-37:29
+	android:autoVerify
+		ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:28-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:suitmedia.instantappsample.com+data:pathPattern:/member+data:scheme:https
+ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:38:13-48:29
+	android:autoVerify
+		ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:38:28-53
 activity#com.suitmedia.bundle.sample.fragmentsample.feature.SampleActivity
-ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23:9-27:20
+ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23:9-50:20
 	android:name
 		ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23:19-99
 meta-data#android.support.PARENT_ACTIVITY
@@ -830,3 +862,11 @@ ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-samp
 		ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:26:17-88
 	android:name
 		ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:17-63
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:suitmedia.instantappsample.com+data:pathPattern:/sample+data:scheme:http
+ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:28:13-38:29
+	android:autoVerify
+		ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:28:28-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:suitmedia.instantappsample.com+data:pathPattern:/sample+data:scheme:https
+ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:39:13-49:29
+	android:autoVerify
+		ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:39:28-53

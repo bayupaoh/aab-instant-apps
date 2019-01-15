@@ -15208,7 +15208,7 @@ com.suitmedia.bundle.sample.R$color
 com.suitmedia.bundle.sample.R$dimen
 com.suitmedia.bundle.sample.R$drawable
 com.suitmedia.bundle.sample.R$id:
-    6807:6807:public R$id()
+    6365:6365:public R$id()
 com.suitmedia.bundle.sample.R$integer
 com.suitmedia.bundle.sample.R$interpolator
 com.suitmedia.bundle.sample.R$layout
@@ -15378,15 +15378,15 @@ com.suitmedia.bundle.sample.di.module.NetworkModule_OkHttpClientFactory:
     33:34:public static okhttp3.OkHttpClient proxyOkHttpClient(com.suitmedia.bundle.sample.di.module.NetworkModule,okhttp3.Cache)
 com.suitmedia.bundle.sample.di.scope.SuitCoreApplicationScope
 com.suitmedia.bundle.sample.feature.MemberActivity:
-    102:110:public void onMemberCacheLoaded(java.util.List)
+    103:111:public void onMemberCacheLoaded(java.util.List)
     public void _$_clearFindViewByIdCache()
 com.suitmedia.bundle.sample.feature.MemberActivity$Companion:
-    48:48:public final android.content.Intent createIntent(android.content.Context)
+    49:49:public final android.content.Intent createIntent(android.content.Context)
 com.suitmedia.bundle.sample.feature.login.LoginActivity:
-    77:80:public void onLoginFailed(java.lang.String)
-    25:25:public static final synthetic void access$setMGoogleHelper$p(com.suitmedia.bundle.sample.feature.login.LoginActivity,com.suitmedia.bundle.sample.helper.socialauth.google.GoogleSignInHelper)
-    25:25:public static final synthetic void access$setMFbHelper$p(com.suitmedia.bundle.sample.feature.login.LoginActivity,com.suitmedia.bundle.sample.helper.socialauth.facebook.FacebookHelper)
-    25:25:public static final synthetic void access$setMTwitterHelper$p(com.suitmedia.bundle.sample.feature.login.LoginActivity,com.suitmedia.bundle.sample.helper.socialauth.twitter.TwitterHelper)
+    78:81:public void onLoginFailed(java.lang.String)
+    26:26:public static final synthetic void access$setMGoogleHelper$p(com.suitmedia.bundle.sample.feature.login.LoginActivity,com.suitmedia.bundle.sample.helper.socialauth.google.GoogleSignInHelper)
+    26:26:public static final synthetic void access$setMFbHelper$p(com.suitmedia.bundle.sample.feature.login.LoginActivity,com.suitmedia.bundle.sample.helper.socialauth.facebook.FacebookHelper)
+    26:26:public static final synthetic void access$setMTwitterHelper$p(com.suitmedia.bundle.sample.feature.login.LoginActivity,com.suitmedia.bundle.sample.helper.socialauth.twitter.TwitterHelper)
     public void _$_clearFindViewByIdCache()
 com.suitmedia.bundle.sample.feature.login.LoginActivity$listener$1
 com.suitmedia.bundle.sample.feature.login.LoginActivity$onLoginSuccess$1
