@@ -244,10 +244,10 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bayupaoh/.gr
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/94515ddb2e75c6d5f7ed7298dac751a5/AndroidManifest.xml:22:5-23:19
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/12ec199e5de25bc415b3e3dc8111e8cf/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/12ec199e5de25bc415b3e3dc8111e8cf/AndroidManifest.xml:11:5-20
-MERGED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-50:19
-MERGED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-50:19
-MERGED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-51:19
-MERGED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-51:19
+MERGED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:5-50:19
+MERGED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:5-50:19
+MERGED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:5-51:19
+MERGED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:5-51:19
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/11e923fb703d64155db0d265c19573b6/AndroidManifest.xml:22:18-91
 	android:supportsRtl
@@ -257,9 +257,7 @@ MERGED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sam
 	android:exported
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:24:9-33
 	android:debuggable
-		ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:9-34
-	android:testOnly
-		ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:9-32
+		ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:9-34
 	android:roundIcon
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:22:9-54
 	android:icon
@@ -292,7 +290,7 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:37:17-77
 	android:name
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:37:27-74
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:suitmedia.instantappsample.com+data:pathPattern:/signin+data:scheme:https
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:bayuinstantaab.azurewebsites.net+data:pathPattern:/signin+data:scheme:https
 ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:39:13-49:29
 	android:autoVerify
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:39:28-53
@@ -311,19 +309,19 @@ ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/An
 data
 ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:45:17-48:53
 	android:host
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:47:21-66
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:47:21-68
 	android:scheme
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:46:21-43
 	android:pathPattern
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:48:21-50
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:suitmedia.instantappsample.com+data:pathPattern:/signin+data:scheme:http
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:bayuinstantaab.azurewebsites.net+data:pathPattern:/signin+data:scheme:http
 ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:50:13-60:29
 	android:autoVerify
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:50:28-53
 meta-data#default-url
-ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:62:13-64:81
+ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:62:13-64:83
 	android:value
-		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:64:17-78
+		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:64:17-80
 	android:name
 		ADDED from /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/AndroidManifest.xml:63:17-43
 service#com.suitmedia.bundle.sample.firebase.fcm.FCMFireBaseMessagingService
@@ -844,11 +842,11 @@ ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/membe
 		ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23:19-84
 intent-filter#action:name:android.intent.action.VIEW
 ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:13-26:29
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:suitmedia.instantappsample.com+data:pathPattern:/member+data:scheme:http
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:bayuinstantaab.azurewebsites.net+data:pathPattern:/member+data:scheme:https
 ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:13-37:29
 	android:autoVerify
 		ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:28-53
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:suitmedia.instantappsample.com+data:pathPattern:/member+data:scheme:https
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:bayuinstantaab.azurewebsites.net+data:pathPattern:/member+data:scheme:http
 ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:38:13-48:29
 	android:autoVerify
 		ADDED from [:member] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/member/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:38:28-53
@@ -862,11 +860,11 @@ ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-samp
 		ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:26:17-88
 	android:name
 		ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:17-63
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:suitmedia.instantappsample.com+data:pathPattern:/sample+data:scheme:http
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:bayuinstantaab.azurewebsites.net+data:pathPattern:/sample+data:scheme:https
 ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:28:13-38:29
 	android:autoVerify
 		ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:28:28-53
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:suitmedia.instantappsample.com+data:pathPattern:/sample+data:scheme:https
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:bayuinstantaab.azurewebsites.net+data:pathPattern:/sample+data:scheme:http
 ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:39:13-49:29
 	android:autoVerify
 		ADDED from [:fragmentsample] /Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/fragmentsample/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:39:28-53

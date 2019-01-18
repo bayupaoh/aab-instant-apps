@@ -192,6 +192,7 @@ class MemberActivity : BaseActivityWithDynamicFeature(),
 
     override fun onDownloadModule(name: String, state: SplitInstallSessionState) {
         Log.i(packageName, "Downloading module : $name")
+        showToast("Downloading module : $name")
     }
 
     override fun onRequiresUserConfirmation(name: String, state: SplitInstallSessionState) {
@@ -204,6 +205,8 @@ class MemberActivity : BaseActivityWithDynamicFeature(),
 
     override fun onInstalling(name: String, state: SplitInstallSessionState) {
         Log.i(packageName, "Installing module : $name")
+        showToast("Installing module : $name")
+
     }
 
     override fun onFailed(name: String, state: SplitInstallSessionState) {

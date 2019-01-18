@@ -15,6 +15,7 @@ import com.suitmedia.bundle.sample.helper.socialauth.twitter.TwitterHelper
 import com.suitmedia.bundle.sample.helper.CommonUtils
 import kotlinx.android.synthetic.main.activity_login.*
 import com.google.android.play.core.splitinstall.*
+import com.suitmedia.bundle.sample.BuildConfig
 import com.suitmedia.bundle.sample.base.ui.BaseActivityWithDynamicFeature
 import com.suitmedia.bundle.sample.helper.CommonConstant
 
@@ -50,7 +51,7 @@ class LoginActivity : BaseActivityWithDynamicFeature(), LoginView, GoogleListene
 
     private fun setupSocialLogin() {
         // Google  initialization
-        mGoogleHelper = GoogleSignInHelper(this, R.string.default_web_client_id, this)
+//        mGoogleHelper = GoogleSignInHelper(this, R.string.default_web_client_id, this)
 
         // twitter initialization
         mTwitterHelper = TwitterHelper(
@@ -125,6 +126,7 @@ class LoginActivity : BaseActivityWithDynamicFeature(), LoginView, GoogleListene
         }
 
         tvSkip.setOnClickListener {
+            showToast("Version Code : "+BuildConfig.VERSION_CODE?.toString())
             loadAndLaunchModule("member")
         }
     }
@@ -156,6 +158,7 @@ class LoginActivity : BaseActivityWithDynamicFeature(), LoginView, GoogleListene
                 return
             } else {
                 // Create request to install a feature module by name.
+                showToast("Prepare to download $name module")
                 val request = SplitInstallRequest.newBuilder()
                         .addModule(name)
                         .build()
@@ -181,6 +184,7 @@ class LoginActivity : BaseActivityWithDynamicFeature(), LoginView, GoogleListene
     }
 
     override fun onDownloadModule(name: String, state: SplitInstallSessionState) {
+        showToast("Downloading module : $name")
         Log.i(packageName, "Downloading module : $name")
     }
 
@@ -193,6 +197,7 @@ class LoginActivity : BaseActivityWithDynamicFeature(), LoginView, GoogleListene
     }
 
     override fun onInstalling(name: String, state: SplitInstallSessionState) {
+        showToast("Installing module : $name")
         Log.i(packageName, "Installing module : $name")
     }
 

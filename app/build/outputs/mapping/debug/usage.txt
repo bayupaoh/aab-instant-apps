@@ -15383,10 +15383,10 @@ com.suitmedia.bundle.sample.feature.MemberActivity:
 com.suitmedia.bundle.sample.feature.MemberActivity$Companion:
     49:49:public final android.content.Intent createIntent(android.content.Context)
 com.suitmedia.bundle.sample.feature.login.LoginActivity:
-    78:81:public void onLoginFailed(java.lang.String)
-    26:26:public static final synthetic void access$setMGoogleHelper$p(com.suitmedia.bundle.sample.feature.login.LoginActivity,com.suitmedia.bundle.sample.helper.socialauth.google.GoogleSignInHelper)
-    26:26:public static final synthetic void access$setMFbHelper$p(com.suitmedia.bundle.sample.feature.login.LoginActivity,com.suitmedia.bundle.sample.helper.socialauth.facebook.FacebookHelper)
-    26:26:public static final synthetic void access$setMTwitterHelper$p(com.suitmedia.bundle.sample.feature.login.LoginActivity,com.suitmedia.bundle.sample.helper.socialauth.twitter.TwitterHelper)
+    79:82:public void onLoginFailed(java.lang.String)
+    27:27:public static final synthetic void access$setMGoogleHelper$p(com.suitmedia.bundle.sample.feature.login.LoginActivity,com.suitmedia.bundle.sample.helper.socialauth.google.GoogleSignInHelper)
+    27:27:public static final synthetic void access$setMFbHelper$p(com.suitmedia.bundle.sample.feature.login.LoginActivity,com.suitmedia.bundle.sample.helper.socialauth.facebook.FacebookHelper)
+    27:27:public static final synthetic void access$setMTwitterHelper$p(com.suitmedia.bundle.sample.feature.login.LoginActivity,com.suitmedia.bundle.sample.helper.socialauth.twitter.TwitterHelper)
     public void _$_clearFindViewByIdCache()
 com.suitmedia.bundle.sample.feature.login.LoginActivity$listener$1
 com.suitmedia.bundle.sample.feature.login.LoginActivity$onLoginSuccess$1

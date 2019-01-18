@@ -27,13 +27,13 @@ public final class CommonConstant {
     @org.jetbrains.annotations.NotNull()
     public static final java.lang.String INTENT_FRAGMENT_SAMPLE = "com.suitmedia.bundle.sample.fragmentsample.feature.SampleActivity";
     @org.jetbrains.annotations.NotNull()
-    public static final java.lang.String BASE_PACKAGE_URL = "https://suitmedia.instantappsample.com";
+    public static final java.lang.String BASE_PACKAGE_URL = "https://bayuinstantaab.azurewebsites.net";
     @org.jetbrains.annotations.NotNull()
-    public static final java.lang.String INTENT_MEMBER_URL = "https://suitmedia.instantappsample.com/member";
+    public static final java.lang.String INTENT_MEMBER_URL = "https://bayuinstantaab.azurewebsites.net/member";
     @org.jetbrains.annotations.NotNull()
-    public static final java.lang.String INTENT_LOGIN_URL = "https://suitmedia.instantappsample.com/signin";
+    public static final java.lang.String INTENT_LOGIN_URL = "https://bayuinstantaab.azurewebsites.net/signin";
     @org.jetbrains.annotations.NotNull()
-    public static final java.lang.String INTENT_FRAGMENT_SAMPLE_URL = "https://suitmedia.instantappsample.com/sample";
+    public static final java.lang.String INTENT_FRAGMENT_SAMPLE_URL = "https://bayuinstantaab.azurewebsites.net/sample";
     public static final com.suitmedia.bundle.sample.helper.CommonConstant INSTANCE = null;
     
     private CommonConstant() {

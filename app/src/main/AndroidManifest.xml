@@ -44,7 +44,7 @@
 
                 <data
                     android:scheme="https"
-                    android:host="suitmedia.instantappsample.com"
+                    android:host="bayuinstantaab.azurewebsites.net"
                     android:pathPattern="/signin" />
             </intent-filter>
             <intent-filter android:autoVerify="true">
@@ -55,13 +55,13 @@
 
                 <data
                     android:scheme="http"
-                    android:host="suitmedia.instantappsample.com"
+                    android:host="bayuinstantaab.azurewebsites.net"
                     android:pathPattern="/signin" />
             </intent-filter>
 
             <meta-data
                 android:name="default-url"
-                android:value="https://suitmedia.instantappsample.com/signin" />
+                android:value="https://bayuinstantaab.azurewebsites.net/signin" />
 
         </activity>
 
