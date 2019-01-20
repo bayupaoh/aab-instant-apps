@@ -4,7 +4,17 @@
             "outputFile": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/values-v16/values-v16.xml",
+                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4114dd94ec99e2b606a392f6bfdac41e/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/552e7c6834656750231e76e9c2c2ab47/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/11e923fb703d64155db0d265c19573b6/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

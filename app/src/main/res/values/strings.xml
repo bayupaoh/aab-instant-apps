@@ -28,6 +28,7 @@
     <string name="title_fragmentsample">fragmentsample</string>
     <string name="asset_statements" translatable="false">[{ \"include\": \"https://bayuinstantaab.azurewebsites.net/.well-known/assetlinks.json\" }]</string>
     <string name="title_testdynamic">testdynamic</string>
+    <string name="title_testintamodule">testintamodule</string>
 
 
 </resources>

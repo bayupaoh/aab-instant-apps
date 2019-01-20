@@ -92,9 +92,9 @@ com.android.support:support-v4
 com.android.support.constraint:constraint-layout
 com.google.android.gms:play-services-phenotype
 com.google.android.gms:play-services-basement
-com.twitter.sdk.android:twitter
 com.google.android.gms:play-services-flags
 com.google.firebase:firebase-measurement-connector
+com.twitter.sdk.android:twitter
 com.facebook.android:facebook-marketing
 com.parse.bolts:bolts-applinks
 com.android.support:collections

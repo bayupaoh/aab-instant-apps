@@ -4,7 +4,7 @@
             "outputFile": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/values-v23/values-v23.xml",
+                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/552e7c6834656750231e76e9c2c2ab47/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f0370fc938598797aec3b6edca3d6047/res/values-v23/values-v23.xml",
+                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/fa677121d22e46ca5bbf1aff443fc6a2/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

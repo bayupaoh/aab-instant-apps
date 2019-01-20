@@ -93,10 +93,10 @@ public final class R {
     public static final class string {
         private string() {}
 
-        public static final int tw__composer_hint = 0x7f0e0079;
-        public static final int tw__login_btn_txt = 0x7f0e007d;
-        public static final int tw__max_tweet_chars = 0x7f0e007e;
-        public static final int tw__post_tweet = 0x7f0e0081;
+        public static final int tw__composer_hint = 0x7f0e007a;
+        public static final int tw__login_btn_txt = 0x7f0e007e;
+        public static final int tw__max_tweet_chars = 0x7f0e007f;
+        public static final int tw__post_tweet = 0x7f0e0082;
     }
     public static final class style {
         private style() {}

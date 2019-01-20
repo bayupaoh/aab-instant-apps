@@ -4,7 +4,7 @@
             "outputFile": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/xrecyclerview-1.5.9.aar/863fee8da677616606f8926008573e38/res/values-zh/values-zh.xml",
+                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/xrecyclerview-1.5.9.aar/1852771f253c1cc032a25cf5165ee765/res/values-zh/values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

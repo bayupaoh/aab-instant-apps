@@ -157,7 +157,11 @@ class LoginActivity : BaseActivityWithDynamicFeature(), LoginView, GoogleListene
     }
 
     private fun loadAndLaunchModule(name: String) {
+        splitInstallManager?.installedModules?.forEach {
+            Log.e("com.suitmedia",it.toString())
+        }
         splitInstallManager?.installedModules?.contains(name)?.let {
+            Log.e("com.suitmedia",it.toString())
             if (it) {
                 onSuccessfulLoad()
                 return

@@ -4,7 +4,7 @@
             "outputFile": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/ff55d81003cdf56845cdfffebf0eead8/res/values-v11/values-v11.xml",
+                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/8bbe33f2fc417be00769e9977017375d/res/values-v11/values-v11.xml",
                     "from": {
                         "startLines": "2,10",
                         "startColumns": "4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/values-v11/values-v11.xml",
+                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/b48f04004e09903a751f9957e37028da/res/values-v11/values-v11.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

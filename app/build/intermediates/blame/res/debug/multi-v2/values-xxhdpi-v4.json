@@ -4,7 +4,7 @@
             "outputFile": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e7e7e3111668ac7626d67920977a3db6/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/178c471f9c742cbc78ad54eb7bebabc9/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
