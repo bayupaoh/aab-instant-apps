@@ -40,40 +40,40 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_tw__heart_animation_detail_60fps_00046.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00046.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/4bf88e30f114ea8f3a7019506a4838d1/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/anim-v21/design_bottom_sheet_slide_out.xml"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f7f87c7a161938341ac348ca6cd6349/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/interpolator-v21_mtrl_linear_out_slow_in.xml.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/drawable-xxxhdpi-v4/design_ic_visibility_off.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_tw__ic_video_play_pressed.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-mdpi-v4/tw__ic_video_play_pressed.png"
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/interpolator-v21_mtrl_linear_out_slow_in.xml.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f7f87c7a161938341ac348ca6cd6349/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_tw__ic_video_play_pressed.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-mdpi-v4/tw__ic_video_play_pressed.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_button_send_round_shadow.png.flat",
@@ -220,24 +220,24 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_login_silver_background.xml.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-login-4.38.1.aar/8266ad3a2c2eb22eebcb77654cfcedd7/res/drawable/com_facebook_button_login_silver_background.xml"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
         "source": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_login_silver_background.xml.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-login-4.38.1.aar/8266ad3a2c2eb22eebcb77654cfcedd7/res/drawable/com_facebook_button_login_silver_background.xml"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f7f87c7a161938341ac348ca6cd6349/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
@@ -284,28 +284,28 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__ic_seekbar_progress_bg.9.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_tw__ic_logo_default.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e7e7e3111668ac7626d67920977a3db6/res/drawable-mdpi-v4/tw__ic_logo_default.png"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/layout_design_bottom_navigation_item.xml.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/design_bottom_navigation_item.xml"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_tw__ic_logo_default.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e7e7e3111668ac7626d67920977a3db6/res/drawable-mdpi-v4/tw__ic_logo_default.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-login-4.38.1.aar/8266ad3a2c2eb22eebcb77654cfcedd7/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_light.xml.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable/tooltip_frame_light.xml"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_empty_state.png.flat",
         "source": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/src/main/res/drawable-xxxhdpi/empty_state.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_light.xml.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable/tooltip_frame_light.xml"
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-login-4.38.1.aar/8266ad3a2c2eb22eebcb77654cfcedd7/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
@@ -484,12 +484,12 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/res/drawable/com_facebook_auth_dialog_header_background.xml"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/11e923fb703d64155db0d265c19573b6/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -520,12 +520,12 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-hdpi-v4/tw__action_heart_off_default.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_tw__heart_animation_detail_60fps_00058.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00058.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_tw__ic_play_default.png.flat",
@@ -624,12 +624,12 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f7f87c7a161938341ac348ca6cd6349/res/drawable-mdpi-v4/googleg_standard_color_18.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_icon_blue.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_icon_blue.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
@@ -700,32 +700,32 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f7f87c7a161938341ac348ca6cd6349/res/drawable/common_google_signin_btn_text_light_focused.xml"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_navigation_empty_icon.xml.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f7f87c7a161938341ac348ca6cd6349/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-login-4.38.1.aar/8266ad3a2c2eb22eebcb77654cfcedd7/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_tw__heart_animation_detail_60fps_00033.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00033.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_tw__heart_animation_detail_60fps_00020.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00020.png"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_tw__heart_animation_detail_60fps_00020.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00020.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -764,12 +764,12 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00021.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_icon.xml.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/res/drawable/com_facebook_button_icon.xml"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_tw__ic_video_replay_pressed.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__ic_video_replay_pressed.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_icon.xml.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/res/drawable/com_facebook_button_icon.xml"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -784,12 +784,12 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.38.1.aar/ed6899f7daad8a3877c8d812c22b657c/res/layout/messenger_button_send_white_large.xml"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/layout_com_facebook_device_auth_dialog_fragment.xml.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -844,12 +844,12 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f7f87c7a161938341ac348ca6cd6349/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_tw__heart_animation_detail_60fps_00045.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00045.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f7f87c7a161938341ac348ca6cd6349/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -924,12 +924,12 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/interpolator-v21/mtrl_fast_out_slow_in.xml"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_tw__ic_vine_badge.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__ic_vine_badge.png"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f7f87c7a161938341ac348ca6cd6349/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_tw__ic_vine_badge.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__ic_vine_badge.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-v21_abc_edit_text_material.xml.flat",
@@ -1000,12 +1000,12 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_tw__ic_inline_share.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__ic_inline_share.png"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_tw__ic_inline_share.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-hdpi-v4/tw__ic_inline_share.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_tw__ic_inline_share.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__ic_inline_share.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_tw__ic_inline_share.png.flat",
@@ -1032,12 +1032,12 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/11e923fb703d64155db0d265c19573b6/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/11e923fb703d64155db0d265c19573b6/res/layout/notification_template_part_time.xml"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/11e923fb703d64155db0d265c19573b6/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_small_blue.png.flat",
@@ -1092,16 +1092,16 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/layout_design_text_input_password_icon.xml.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d856c91c6c29a7e1269adda467df2b4/res/layout/design_text_input_password_icon.xml"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/3f8824d27e4cb515e952812fe40183e1/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
@@ -1148,12 +1148,12 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f7f87c7a161938341ac348ca6cd6349/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_tw__ic_tweet_verified.png.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xxhdpi-v4/tw__ic_tweet_verified.png"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_tw__heart_animation_detail_60fps_00009.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00009.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_tw__ic_tweet_verified.png.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/drawable-xxhdpi-v4/tw__ic_tweet_verified.png"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1328,12 +1328,12 @@
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/layout_tw__tweet_quote.xml.flat",
-        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__tweet_quote.xml"
-    },
-    {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ae37d94d7b338c55587abb14589986d/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/layout_tw__tweet_quote.xml.flat",
+        "source": "/Users/bayupaoh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/8f1f36bca43c684378f8ad418b0ad2da/res/layout/tw__tweet_quote.xml"
     },
     {
         "merged": "/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/res/merged/debug/animator_mtrl_btn_unelevated_state_list_anim.xml.flat",

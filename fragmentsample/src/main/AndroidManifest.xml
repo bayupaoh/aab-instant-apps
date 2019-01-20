@@ -6,7 +6,7 @@
         dist:instant="true"
         dist:onDemand="false"
         dist:title="@string/title_fragmentsample">
-        <dist:fusing dist:include="true" />
+        <dist:fusing dist:include="false" />
     </dist:module>
 
     <application android:theme="@style/AppTheme">

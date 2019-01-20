@@ -68,6 +68,7 @@ class MemberActivity : BaseActivityWithDynamicFeature(),
     override fun onDestroy() {
         super.onDestroy()
         clearRecyclerView(memberList)
+        splitInstallManager?.unregisterListener(listener)
     }
 
     private fun setupPresenter() {
@@ -213,4 +214,6 @@ class MemberActivity : BaseActivityWithDynamicFeature(),
         Log.e(packageName, "Error Code : ${state.errorCode()}")
         showToast("Download Module Failed $name")
     }
+
+
 }

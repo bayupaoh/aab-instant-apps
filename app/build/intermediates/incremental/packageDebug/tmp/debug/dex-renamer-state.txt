@@ -1,4 +1,0 @@
-#Fri Jan 18 19:50:40 WIB 2019
-base.0=/Users/bayupaoh/Documents/Suitmedia/app-bundle-sample/app/build/intermediates/transforms/dexSplitter/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

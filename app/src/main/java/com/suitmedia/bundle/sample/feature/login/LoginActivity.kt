@@ -151,6 +151,11 @@ class LoginActivity : BaseActivityWithDynamicFeature(), LoginView, GoogleListene
         splitInstallManager?.unregisterListener(listener)
     }
 
+    override fun onDestroy() {
+        super.onDestroy()
+        splitInstallManager?.unregisterListener(listener)
+    }
+
     private fun loadAndLaunchModule(name: String) {
         splitInstallManager?.installedModules?.contains(name)?.let {
             if (it) {

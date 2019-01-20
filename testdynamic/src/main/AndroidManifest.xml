@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.suitmedia.testdynamic">
+
+    <dist:module
+        dist:instant="true"
+        dist:onDemand="false"
+        dist:title="@string/title_testdynamic">
+        <dist:fusing dist:include="false" />
+    </dist:module>
+</manifest>
+
